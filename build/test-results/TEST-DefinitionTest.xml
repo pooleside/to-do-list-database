@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DefinitionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2015-08-24T04:49:26" hostname="Leslies-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="find_returnsWordWithSameId_secondWord" classname="DefinitionTest" time="0.002"/>
+  <testcase name="newId_DefinitionInstantiateWithAnID_true" classname="DefinitionTest" time="0.0"/>
+  <testcase name="definition_instantiatesCorrectly_true" classname="DefinitionTest" time="0.0"/>
+  <testcase name="isCompleted_isFalseAfterInstantiaon_false" classname="DefinitionTest" time="0.0"/>
+  <testcase name="find_returnsNullWhenNoDefinitionFound_null" classname="DefinitionTest" time="0.0"/>
+  <testcase name="clear_emptiesAllDefinitionsFromArrayList" classname="DefinitionTest" time="0.0"/>
+  <testcase name="definition_instantiatesWithDescription_true" classname="DefinitionTest" time="0.0"/>
+  <testcase name="all_returnsAllInstancesOfWord_true" classname="DefinitionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

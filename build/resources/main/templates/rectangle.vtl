@@ -1,0 +1,12 @@
+<p><h3> Your rectangle's height is $testR.getHeight()</h3></p>
+<p><h3> Your rectangle's width is $testR.getWidth()</h3></p>
+
+
+    ##Comment-this is the dynamic part of the page.  The computer will read the code and html.
+#if ($testR.isSquare())                           ##(Code) on this line.  It will see if testR is a square.
+  <p><h3>Your rectangle is a square!</h3></p>     ##(HTML)If so, it will print the html message on this line
+
+#else                                             ##(Code)If not...
+  <p><h3>Your rectangle is not a square!</h3></p>     ##(HTML)It will print the html message of this line
+
+#end                                              ##(Code) Need #end to finish.
